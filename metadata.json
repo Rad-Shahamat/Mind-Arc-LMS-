@@ -1,0 +1,6 @@
+{
+  "name": "Mind Arc — Futuristic Student LMS Dashboard",
+  "description": "Premium, futuristic student LMS dashboard with glassmorphism effects, live exams, schedule, recordings, planner, and real-time portal widgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
